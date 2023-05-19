@@ -29,7 +29,7 @@
         <div class="d-flex justify-content-between align-items-center">
           <h2>Missions</h2>
           <ol>
-            <li><a href="communication">Communication</a></li>
+            <li><a href="communication">announcements</a></li>
             <li>Announcements</li>
           </ol>
         </div>
