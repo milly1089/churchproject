@@ -88,7 +88,7 @@
                 <div class="info-box">
                   <i class="bx bx-phone-call"></i>
                   <h3>Call Us</h3>
-                  <p>+254 (07348) 33675</p>
+                  <p>+254 (07348) 33675,+254114913172</p>
                 </div>
               </div>
             </div>
