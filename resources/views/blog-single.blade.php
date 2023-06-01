@@ -63,7 +63,7 @@
 
                       <div class="entry-content">
                           <p>
-                              {{ $blog->description }}
+                              {{ $blog->content }}
                           </p>
                           <!--<div class="read-more">-->
                           <!--    <a href="blog-single/{{ $blog->id }}">Read More</a>-->
